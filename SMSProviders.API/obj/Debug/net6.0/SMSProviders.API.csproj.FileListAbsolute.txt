@@ -1,0 +1,160 @@
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.exe
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.deps.json
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.runtimeconfig.json
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.pdb
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.AssemblyReference.cache
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.AssemblyInfoInputs.cache
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.AssemblyInfo.cs
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.CoreCompileInputs.cache
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.SMSProviders.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.build.SMSProviders.API.props
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SMSProviders.API.props
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SMSProviders.API.props
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\scopedcss\bundle\SMSProviders.API.styles.css
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.CopyComplete
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\refint\SMSProviders.API.dll
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.pdb
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.genruntimeconfig.cache
+C:\Users\Linton\source\repos\SMSProviders.API\SMSProviders.API\obj\Debug\net6.0\ref\SMSProviders.API.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\appsettings.json
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.exe
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.deps.json
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.runtimeconfig.json
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.pdb
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.AssemblyReference.cache
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.AssemblyInfoInputs.cache
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.AssemblyInfo.cs
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\scopedcss\bundle\SMSProviders.API.styles.css
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.CopyComplete
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\refint\SMSProviders.API.dll
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.pdb
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.genruntimeconfig.cache
+C:\Users\E P A M\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\ref\SMSProviders.API.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.exe
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.deps.json
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.runtimeconfig.json
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\SMSProviders.API.pdb
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Mapster.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.AssemblyInfo.cs
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.SMSProviders.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.build.SMSProviders.API.props
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SMSProviders.API.props
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SMSProviders.API.props
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\scopedcss\bundle\SMSProviders.API.styles.css
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.csproj.CopyComplete
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\refint\SMSProviders.API.dll
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.pdb
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\SMSProviders.API.genruntimeconfig.cache
+C:\Users\Linton\Desktop\SMSProvider.API\SMSProviders.API\obj\Debug\net6.0\ref\SMSProviders.API.dll

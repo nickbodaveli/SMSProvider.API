@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1hQPk9oSyJ/Kxt9UQ3i9IKyOfS2VhB/O1QZEZkwOLUY=",
+  "Source": "SMSProviders.API",
+  "BasePath": "_content/SMSProviders.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
